@@ -1,0 +1,1 @@
+This is springCloud config set test, you will know how to config the setting for springcloud config
